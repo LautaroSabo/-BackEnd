@@ -1,0 +1,58 @@
+[
+	{
+		"title": "Salada",
+		"price": "10",
+		"thumbnail": "IMG",
+		"code": "00002",
+		"stock": "35",
+		"id": 1
+	},
+	{
+		"title": "Salada",
+		"price": "10",
+		"thumbnail": "IMG",
+		"code": "00002",
+		"stock": "35",
+		"id": 2
+	},
+	{
+		"title": "Salada",
+		"price": "10",
+		"thumbnail": "IMG",
+		"code": "00002",
+		"stock": "35",
+		"id": 3
+	},
+	{
+		"title": "Salada",
+		"price": "10",
+		"thumbnail": "IMG",
+		"code": "00002",
+		"stock": "35",
+		"id": 4
+	},
+	{
+		"title": "Salada",
+		"price": "10",
+		"thumbnail": "IMG",
+		"code": "00002",
+		"stock": "35",
+		"id": 6
+	},
+	{
+		"title": "Salada",
+		"price": "10",
+		"thumbnail": "IMG",
+		"code": "00002",
+		"stock": "35",
+		"id": 7
+	},
+	{
+		"title": "Salada",
+		"price": "10",
+		"thumbnail": "IMG",
+		"code": "00002",
+		"stock": "35",
+		"id": 8
+	}
+]
