@@ -1,0 +1,42 @@
+[
+	{
+		"tittle": "Palito",
+		"price": "130",
+		"thumbnail": "url",
+		"stock": "10",
+		"id": 1,
+		"code": "0001"
+	},
+	{
+		"tittle": "Pepa",
+		"price": "80",
+		"thumbnail": "url",
+		"stock": "55",
+		"id": 2,
+		"code": "0002"
+	},
+	{
+		"tittle": "Chupetin",
+		"price": "120",
+		"thumbnail": "url",
+		"stock": "20",
+		"id": 3,
+		"code": "0003"
+	},
+	{
+		"tittle": "Chizito",
+		"price": "200",
+		"thumbnail": "url",
+		"stock": "300",
+		"id": 4,
+		"code": "0004"
+	},
+	{
+		"tittle": "Alfajores",
+		"price": "50",
+		"thumbnail": "url",
+		"stock": "100",
+		"id": 5,
+		"code": "0005"
+	}
+]
